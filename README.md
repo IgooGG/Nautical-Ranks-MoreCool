@@ -19,8 +19,8 @@ A resouse pack for java and bedrock that adds custom ranks like better ranks for
 
 | Added rank        | Symbol                                                             |
 | ----------------- | ------------------------------------------------------------------ |
-| Admin-IT  |  |
-| Recruit  |  |
+| ADMIN-IT  |  |
+| RECRUIT og  |  |
 
 | Rank             | Symbol                                                              |
 | ----------------- | ------------------------------------------------------------------ |
